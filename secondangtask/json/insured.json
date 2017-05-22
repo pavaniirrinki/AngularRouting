@@ -1,0 +1,79 @@
+{
+  "records": [
+    {
+      "QuestionID": "Alfreds Futterkiste",
+      "QuestionText": "Berlin",
+      "Country": "Germany"
+    },
+    {
+      "QuestionID": "Ana Trujillo Emparedados y helados",
+      "QuestionText": "México D.F.",
+      "Country": "Mexico"
+    },
+    {
+      "QuestionID": "Antonio Moreno Taquería",
+      "QuestionText": "México D.F.",
+      "Country": "Mexico"
+    },
+    {
+      "QuestionID": "Around the Horn",
+      "QuestionText": "London",
+      "Country": "UK"
+    },
+    {
+      "QuestionID": "B's Beverages",
+      "QuestionText": "London",
+      "Country": "UK"
+    },
+    {
+      "QuestionID": "Berglunds snabbköp",
+      "QuestionText": "Luleå",
+      "Country": "Sweden"
+    },
+    {
+      "QuestionID": "Blauer See Delikatessen",
+      "QuestionText": "Mannheim",
+      "Country": "Germany"
+    },
+    {
+      "QuestionID": "Blondel père et fils",
+      "QuestionText": "Strasbourg",
+      "Country": "France"
+    },
+    {
+      "QuestionID": "Bólido Comidas preparadas",
+      "QuestionText": "Madrid",
+      "Country": "Spain"
+    },
+    {
+      "QuestionID": "Bon app'",
+      "QuestionText": "Marseille",
+      "Country": "France"
+    },
+    {
+      "QuestionID": "Bottom-Dollar Marketse",
+      "QuestionText": "Tsawassen",
+      "Country": "Canada"
+    },
+    {
+      "QuestionID": "Cactus Comidas para llevar",
+      "QuestionText": "Buenos Aires",
+      "Country": "Argentina"
+    },
+    {
+      "QuestionID": "Centro comercial Moctezuma",
+      "QuestionText": "México D.F.",
+      "Country": "Mexico"
+    },
+    {
+      "QuestionID": "Chop-suey Chinese",
+      "QuestionText": "Bern",
+      "Country": "Switzerland"
+    },
+    {
+      "QuestionID": "Comércio Mineiro",
+      "QuestionText": "São Paulo",
+      "Country": "Brazil"
+    }
+  ]
+}
